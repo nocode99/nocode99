@@ -1,4 +1,10 @@
-### Hi there 👋
+## DevSecOps/SRE
+
+### Tools/Services
+
+* [terraform](https://terraform.io)
+* [vault](https://vaultproject.io)
+* [AWS](https://aws.amazon.com)
 
 <!--
 **nocode99/nocode99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
